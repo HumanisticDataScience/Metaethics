@@ -2,7 +2,8 @@
 Dataset and analysis of 145 Basket of 8 IS papers
 # Metaethics and the Ethics of AI in Information Systems Research
 
-This repository contains the data, code, and supplementary materials for the paper:
+This repository contains the data, code, and supplementary materials for the paper
+
  **Rethinking the Foundations of Ethics in Information Systems Research** by Greene & Stahl (2025)
 
 ## Contents
