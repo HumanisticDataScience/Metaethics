@@ -1,12 +1,13 @@
 
 # Metaethics in Information Systems Research
 
-This repository contains the data and supplementary materials for the paper **Rethinking the Foundations of Ethics in Information Systems Research** 
+This public repository contains the dataset and supplementary materials for the paper **Rethinking the Foundations of Ethics in Information Systems Research** 
 
 ## Contents
 - `/paper`: manuscript and supplementary materials  (LLM Prompt and qualitative coding document)
-- `/data`: dataset of IS ethics papers used for analysis  
+- `/data`: dataset of IS ethics papers used for analysis and generation of visuals
 
+Note: Link to Stanford Encyclopedia of Philosophy entry on [Metaethics](https://plato.stanford.edu/entries/metaethics/) (used as part of LLM prompt input) 
 
 ## License
 Text and data shared under CC BY 4.0.  
