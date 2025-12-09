@@ -5,7 +5,7 @@ This repository contains the data and supplementary materials for the paper **Re
 
 ## Contents
 - `/paper`: manuscript and supplementary materials  (LLM Prompt and qualitative coding document)
-- `/data`: coded dataset of IS ethics papers   
+- `/data`: dataset of IS ethics papers used for analysis  
 
 
 ## License
