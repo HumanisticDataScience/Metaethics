@@ -1,20 +1,14 @@
 
 # Metaethics in Information Systems Research
 
-This repository contains the data, code, and supplementary materials for the paper
-
- **Rethinking the Foundations of Ethics in Information Systems Research** by Greene & Stahl (2025)
+This repository contains the data and supplementary materials for the paper **Rethinking the Foundations of Ethics in Information Systems Research** 
 
 ## Contents
-- `/paper`: manuscript and supplementary materials  
-- `/data`: coded dataset of IS ethics papers  
-- `/analysis`: R scripts used for analysis and visualizations  
+- `/paper`: manuscript and supplementary materials  (LLM Prompt and qualitative coding document)
+- `/data`: coded dataset of IS ethics papers   
 
-## Reproducibility
-All analyses from the paper can be reproduced by running the R scripts in `/analysis`.  
-Please contact trgr.digi@cbs.dk for any issues or clarifications.
 
 ## License
-Text and data © Travis Greene, 2025, shared under CC BY 4.0.  
+Text and data shared under CC BY 4.0.  
 Code shared under MIT License.
 
