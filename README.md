@@ -4,7 +4,7 @@
 This public repository contains the dataset, a script for reproducible data analysis, and supplementary materials for the paper **Rethinking the Foundations of Ethics in Information Systems Research** 
 
 ## Contents
-- `/paper`: manuscript and supplementary materials  (LLM Prompt and qualitative coding document). 
+- `/paper`: manuscript and supplementary materials  (LLM Prompt, metaethics qualitative coding document, full list of 145 papers surveyed). 
 - `/data`: dataset of IS ethics papers used for analysis and generation of visuals.
 - `/scripts`: R script to reproduce relevant tables and figures appearing the manuscript.
 
